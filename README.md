@@ -1,4 +1,4 @@
-Making a workable dictionary that is a but dynamic in nature.
+Making a workable dictionary that is a bit dynamic in nature.
 v0.1 Entirely Console based
 
 #Changes to be made
